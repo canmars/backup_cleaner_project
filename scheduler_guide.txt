@@ -1,0 +1,13 @@
+
+📅 GÖREV ZAMANLAYICI AYARI (Windows)
+
+1. Başlat menüsüne "Görev Zamanlayıcı" yazıp açın.
+2. Sağda "Görev Oluştur" seçeneğine tıklayın.
+3. Genel sekmesinde bir isim verin: "Yedek Temizleyici"
+4. Tetikleyiciler sekmesinden → Yeni → Günlük → Saat: 21:00
+5. Eylemler sekmesi → Yeni → Program/script: python
+   → 'Bağımsız değişken ekle' kısmına: backup_cleaner.py
+   → 'Başlama klasörü' kısmına: Bu klasörün tam yolu
+6. Kaydedin. Görev her akşam çalışacak!
+
+⚠️ Not: Python ortamınız sistem PATH’inde olmalı veya tam yol yazılmalı.
