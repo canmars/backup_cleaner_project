@@ -20,4 +20,4 @@ gibi bilgileri değiştirebilirsiniz.
 Windows Görev Zamanlayıcı (Task Scheduler) ile bu scripti her gün otomatik çalıştırabilirsiniz. Detaylı bilgi için `scheduler_guide.txt` dosyasına bakın.
 
 ## 🧠 Yazılımı Geliştiren: 
-Sen (ve dijital mentorun ChatGPT)
+@canmars ve ChatGPT
